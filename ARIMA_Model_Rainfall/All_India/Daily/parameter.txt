@@ -1,0 +1,28 @@
+Parameters for the year 2008
+AR Coefficients: [ 0.34840094  0.49103227  0.0608596   0.01446377]
+MA Coefficients: [ 0.54144137]
+
+Parameters for the year 2009
+AR Coefficients: [ 1.16169616 -0.29452478 -0.07247333  0.15310005]
+MA Coefficients: [-0.24145199]
+
+Parameters for the year 2010
+AR Coefficients: [ 0.97890012 -0.32266833  0.06318121  0.2180733 ]
+MA Coefficients: [-0.06685037]
+
+Parameters for the year 2011
+AR Coefficients: [ 1.48870777 -0.5628356   0.02635851  0.03998694]
+MA Coefficients: [-0.77528723]
+
+Parameters for the year 2012
+AR Coefficients: [ 0.43585929  0.14837993  0.01408825  0.30773316]
+MA Coefficients: [ 0.3546828]
+
+Parameters for the year 2013
+AR Coefficients: [ 1.82106751 -1.23960148  0.52701795 -0.11392543]
+MA Coefficients: [-0.83573859]
+
+Parameters for the year 2014
+AR Coefficients: [ 1.8059843  -1.08751015  0.26446507  0.00729202]
+MA Coefficients: [-0.78096704]
+

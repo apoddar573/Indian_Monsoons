@@ -1,0 +1,53 @@
+Best Models: 
+(8, 0, 0)
+Monthly Variation: 53.8950466954
+Monsoon Variation: 7.2895313528
+Annual Variation: 6.64516279879
+
+(8, 0, 1)
+Monthly Variation: 71.3996025709
+Monsoon Variation: 10.0082455339
+Annual Variation: 5.57117483297
+
+(7, 0, 1)
+Monthly Variation: 56.1839588885
+Monsoon Variation: 7.59984225445
+Annual Variation: 6.11286096933
+
+(7, 0, 0)
+Monthly Variation: 58.4221977478
+Monsoon Variation: 8.02354788022
+Annual Variation: 5.6322275158
+
+(6, 0, 1)
+Monthly Variation: 54.8307162056
+Monsoon Variation: 8.12498670892
+Annual Variation: 6.02012227683
+
+
+Worst Models: 
+(8, 0, 0)
+Monthly Variation: 24.9214695489
+Monsoon Variation: 15.9701512562
+Annual Variation: 12.0380613343
+
+(8, 0, 1)
+Monthly Variation: 24.3261533953
+Monsoon Variation: 15.9789896511
+Annual Variation: 12.2048003352
+
+(7, 0, 1)
+Monthly Variation: 25.9385593019
+Monsoon Variation: 12.7030925676
+Annual Variation: 9.44209406345
+
+(7, 0, 0)
+Monthly Variation: 23.3665948306
+Monsoon Variation: 12.1928409077
+Annual Variation: 6.28583170059
+
+(6, 0, 1)
+Monthly Variation: 5.69360628697e-16
+Monsoon Variation: 0.0
+Annual Variation: 0.0
+
